@@ -1,0 +1,40 @@
+* {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: aquamarine;
+    box-shadow: 15px;
+}
+
+.container1{
+    display: block;
+    padding: 10px;
+    margin-left: 30px;
+}
+
+.container1 a{
+    text-decoration: 10px;
+    
+}
+
+.container1 h1{
+    color: #800000;
+    font-family: serif;
+}
+
+.navlist a{
+    text-decoration: none;
+    color: black;
+    padding: 4px;
+}
+
+.navlist ul {
+    list-style: none;
+    display: flex;
+
+}
